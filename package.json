@@ -8,11 +8,8 @@
     "@testing-library/user-event": "^13.2.1",
     "@types/jest": "^27.0.1",
     "@types/node": "^16.7.13",
-<<<<<<< HEAD
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
-=======
->>>>>>> 5c6d42f08b9dcc7ac22e23c07dd615080d0e6e0d
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
@@ -44,11 +41,8 @@
     ]
   },
   "devDependencies": {
-<<<<<<< HEAD
-=======
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
->>>>>>> 5c6d42f08b9dcc7ac22e23c07dd615080d0e6e0d
     "prettier": "3.0.0"
   }
 }
